@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(to bottom right,red , pink, green);
+    height: 1200px;
+    padding: 10;
+    margin: 10;
+}
+.heading{
+    text-align: center;
+    font-size: 42px;
+    font-weight: bolder;
+}
+.Subtitle{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.sub{
+    text-align: center;
+    font-size: 20px;
+    font-weight: lighter;
+    margin-left: 10%;
+    margin-right: 10%;
+}
